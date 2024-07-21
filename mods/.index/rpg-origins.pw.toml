@@ -1,0 +1,13 @@
+filename = 'RPGOrigins-1.4.2.jar'
+name = 'RPG Origins'
+side = 'server'
+
+[download]
+hash = 'b659460550e3739a14a034bec5f87c162f5061849b6049b5d703f2ef232a1a0c54795c01a648d2121f55b074bc3b6bc2545f2b8851a27946f72ac1ea6cbc4ab8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2x88uc2n/versions/hcqbE6OI/RPGOrigins-1.4.2.jar'
+
+[update.modrinth]
+mod-id = '2x88uc2n'
+version = 'hcqbE6OI'

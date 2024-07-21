@@ -1,0 +1,13 @@
+filename = 'oldschool-netherite-1.2.jar'
+name = 'Oldschool Netherite'
+side = 'both'
+
+[download]
+hash = 'eaba67a318b549ea630167ec7076098811f02bb72c52f566e93bc693720942cac62c60c5a97ad91eabeb797bc509e662b0d926de164737936893c8c1c37590f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rtAWsPEI/versions/4hHYeUjx/oldschool-netherite-1.2.jar'
+
+[update.modrinth]
+mod-id = 'rtAWsPEI'
+version = '4hHYeUjx'

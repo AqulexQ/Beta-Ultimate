@@ -1,0 +1,13 @@
+filename = 'spacecatasb-fabric-20.13.1.jar'
+name = 'Armor Set Bonuses'
+side = 'both'
+
+[download]
+hash = 'd9a51a222e592a114dcaa1177d2a39540f795f59ea03f9158046fa83329f1a569ea6fd3a4114f04ecd7bd20fad07b9b684ff32006dc51982d714a736116509a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jfBHPmBR/versions/PAxycKZC/spacecatasb-fabric-20.13.1.jar'
+
+[update.modrinth]
+mod-id = 'jfBHPmBR'
+version = 'PAxycKZC'

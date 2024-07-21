@@ -1,0 +1,13 @@
+filename = 'energizer-1.2.1.jar'
+name = 'Energizer⚡'
+side = 'both'
+
+[download]
+hash = 'b069252dfa0f8a5475d2b09a56df5c1eb9a6410dadcdb80235faa040730e11e48daae46ca5975104c1b39dc4698df70a224e7ff4471a12559dec27f4d1d75aa0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XKh8qwSL/versions/HENwwXVb/energizer-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'XKh8qwSL'
+version = 'HENwwXVb'

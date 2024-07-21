@@ -1,0 +1,222 @@
+{
+	"enable_before_icon": true,
+	// Icon before the enchantment name (possibles entries: SWORD, PICKAXE, AXE, SHOVEL, HOE, BOW, CROSSBOW, TRIDENT, FISHING_ROD, SHIELD, SHEARS, HELMET, CHESTPLATE, LEGGINGS, BOOTS, ELYTRA, STAR, HEART, LIGHTNING, SKULL)
+	"iconBeforeEnchantment": [
+		{
+			"enchantment": "minecraft:sharpness",
+			"icon": "SWORD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:smite",
+			"icon": "SWORD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:bane_of_arthropods",
+			"icon": "SWORD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:fire_aspect",
+			"icon": "SWORD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:sweeping",
+			"icon": "SWORD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:knockback",
+			"icon": "SWORD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:looting",
+			"icon": "SWORD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:efficiency",
+			"icon": "PICKAXE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:fortune",
+			"icon": "PICKAXE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:silk_touch",
+			"icon": "PICKAXE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:mending",
+			"icon": "PICKAXE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:unbreaking",
+			"icon": "PICKAXE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:vanishing_curse",
+			"icon": "PICKAXE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:lure",
+			"icon": "FISHING_ROD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:luck_of_the_sea",
+			"icon": "FISHING_ROD",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:protection",
+			"icon": "CHESTPLATE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:fire_protection",
+			"icon": "CHESTPLATE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:blast_protection",
+			"icon": "CHESTPLATE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:projectile_protection",
+			"icon": "CHESTPLATE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:thorns",
+			"icon": "CHESTPLATE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:binding_curse",
+			"icon": "CHESTPLATE",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:feather_falling",
+			"icon": "BOOTS",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:frost_walker",
+			"icon": "BOOTS",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:depth_strider",
+			"icon": "BOOTS",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:soul_speed",
+			"icon": "BOOTS",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:aqua_affinity",
+			"icon": "HELMET",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:respiration",
+			"icon": "HELMET",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:swift_sneak",
+			"icon": "LEGGINGS",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:power",
+			"icon": "BOW",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:flame",
+			"icon": "BOW",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:punch",
+			"icon": "BOW",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:infinity",
+			"icon": "BOW",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:multishot",
+			"icon": "CROSSBOW",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:piercing",
+			"icon": "CROSSBOW",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:quick_charge",
+			"icon": "CROSSBOW",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:loyalty",
+			"icon": "TRIDENT",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:channeling",
+			"icon": "TRIDENT",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:impaling",
+			"icon": "TRIDENT",
+			"color": 11184810
+		},
+		{
+			"enchantment": "minecraft:riptide",
+			"icon": "TRIDENT",
+			"color": 11184810
+		}
+	],
+	"normal_enchantment": 11184810,
+	"treasure_enchantment": 11184810,
+	"curse_enchantment": 16733525,
+	"enable_after_icon": true,
+	"level_icon": "STAR",
+	"level_1_color": 5635925,
+	"level_2_color": 5636095,
+	"level_3_color": 16733695,
+	"level_4_color": 16777045,
+	"level_5_color": 16755200,
+	"level_6_color": 0,
+	"level_7_color": 0,
+	"level_8_color": 0,
+	"level_9_color": 0,
+	"level_10_color": 0,
+	// If enchantments at max level will have a different color.
+	"enable_level_max_color": true,
+	"level_max_color": 16755200,
+	"enable_curse_icon": true,
+	"curse_icon": "SKULL",
+	"curse_icon_color": 16733525
+}

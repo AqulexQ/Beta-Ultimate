@@ -1,0 +1,13 @@
+filename = 'beta-recipes-1.0.0.jar'
+name = 'Beta Recipes'
+side = 'both'
+
+[download]
+hash = '9101ef2f5e9c06d62521add71f4f1b924df45630e221b709c16f3e0fca2d3e398c05842edeab1284c35766cd4e6a7eda84e928372aedaae145c3aaeccc40a31d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GWfrxllc/versions/zulnEPDN/beta-recipes-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'GWfrxllc'
+version = 'zulnEPDN'

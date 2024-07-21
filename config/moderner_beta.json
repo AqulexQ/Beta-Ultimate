@@ -1,0 +1,11 @@
+{
+  "fixedSeed": "",
+  "useFixedSeed": false,
+  "useBetaSkyColor": true,
+  "useBetaBiomeColor": true,
+  "useBetaWaterColor": true,
+  "usePEBetaSkyColor": true,
+  "usePEBetaBiomeColor": true,
+  "usePEBetaWaterColor": true,
+  "useOldFogColor": true
+}

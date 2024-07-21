@@ -1,0 +1,40 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:potion{Potion:\"energizer:vigor_potion\"}",
+    "item:minecraft:potion{Potion:\"anxff:glow_potion\"}",
+    "item:friendsandfoes:waxed_oxidized_lightning_rod",
+    "item:minecraft:chiseled_bookshelf",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:stage\"}}",
+    "item:minecraft:lectern",
+    "item:minecraft:oak_sign",
+    "item:minecraft:spruce_hanging_sign",
+    "item:minecraft:ender_chest",
+    "item:minecraft:ender_eye",
+    "item:minecraft:pink_banner",
+    "item:minecraft:packed_ice",
+    "item:minecraft:ward_armor_trim_smithing_template",
+    "item:minecraft:netherite_pickaxe{Damage:0}",
+    "item:minecraft:wooden_axe{Damage:0}",
+    "item:minecraft:golden_axe{Damage:0}",
+    "item:minecraft:cartography_table",
+    "item:potionblender:brewing_cauldron",
+    "item:minecraft:diamond_leggings{Damage:0}",
+    "item:minecraft:diamond_boots{Damage:0}",
+    "item:dummmmmmy:target_dummy",
+    "item:minecraft:rib_armor_trim_smithing_template",
+    {
+      "type": "fluid",
+      "id": "minecraft:water",
+      "amount": 0
+    }
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

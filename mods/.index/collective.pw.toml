@@ -1,0 +1,13 @@
+filename = 'collective-1.20.1-7.71.jar'
+name = 'Collective'
+side = 'both'
+
+[download]
+hash = '5eacb832d8e26dc7a2a21b5e1f2460bd4aedb8d9888aaa7c1751e1f302d53eecab556f2b2928fcd80dda51e35105cd38227aba1b83ddea72c999d06d272c35d9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e0M1UDsY/versions/4PHvK72M/collective-1.20.1-7.71.jar'
+
+[update.modrinth]
+mod-id = 'e0M1UDsY'
+version = '4PHvK72M'

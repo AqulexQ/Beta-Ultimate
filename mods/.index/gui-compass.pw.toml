@@ -1,0 +1,13 @@
+filename = 'guicompass-1.20.1-4.6.jar'
+name = 'GUI Compass'
+side = 'client'
+
+[download]
+hash = '714e238717ae3ae322f56e466655d58b1446e3b42f499b80a147b862dac42f81607a73681c8816bd7f19b48ccc53f7d46d5f6289e6953dc416c5aec08bd7cbba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZORMkttv/versions/WjB6PpPT/guicompass-1.20.1-4.6.jar'
+
+[update.modrinth]
+mod-id = 'ZORMkttv'
+version = 'WjB6PpPT'

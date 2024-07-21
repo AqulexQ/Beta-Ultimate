@@ -1,0 +1,66 @@
+{
+	// If you will not be able to sprint or swim when you run out of stamina and wait for it to completely regenerate.
+	"disable_sprint_swim_empty_stamina": false,
+	// The amount of stamina decreased per tick when sprinting.
+	"sprinting_stamina_decrease": 0.5,
+	// The amount of stamina decreased per tick when sprinting and hungry.
+	"sprinting_stamina_decrease_hunger": 1.0,
+	// If swimming should cost stamina.
+	"swimming_cost_stamina": true,
+	// The amount of stamina decreased per tick when swimming.
+	"swimming_stamina_decrease": 0.5,
+	// The amount of stamina decreased per tick when swimming and hungry.
+	"swimming_stamina_decrease_hunger": 1.0,
+	// The amount of stamina increased per tick when not sprinting.
+	"stamina_increase": 0.5,
+	// The amount of stamina increased per tick when not sprinting and hungry.
+	"stamina_increase_hunger": 0.25,
+	// The amount of stamina increased per tick when not sprinting and stamina completely empty.
+	"stamina_increase_empty": 0.25,
+	// The amount of stamina increased per tick when not sprinting, hungry and stamina completely empty.
+	"stamina_increase_hunger_empty": 0.125,
+	// The delay in ticks before the stamina starts regenerating.
+	"stamina_regeneration_delay": 10,
+	// If the stamina bar should blink when stamina is full.
+	"stamina_blink": true,
+	// If the stamina bar should wave when having Vigor effect.
+	"vigor_wave": true,
+	// If you must keep pressing the sprint keybind to sprint, rather than toggling it.
+	"sprint_keybind": false,
+	// If the player will jump lower when the stamina bar is empty.
+	"lower_jump": false,
+	// The multiplier for the jump height when the stamina bar is empty.
+	"lower_jump_multiplier": 0.75,
+	// If the player will walk slower when the stamina bar is empty.
+	"slower_walk": false,
+	// The multiplier for the walk speed when the stamina bar is empty.
+	"slower_walk_multiplier": 0.5,
+	// The x offset for the stamina bar.
+	"x_offset_stamina_bar": 0,
+	// The y offset for the stamina bar.
+	"y_offset_stamina_bar": 0,
+	// If the hunger should be removed.
+	"remove_hunger": true,
+	// If the player can sprint when the hunger bar is below 6 (3 icons).
+	"can_continue_sprinting": false,
+	// The x offset for the hunger bar.
+	"x_offset_hunger_bar": 0,
+	// The y offset for the hunger bar.
+	"y_offset_hunger_bar": -100,
+	// If the air bar should be synced with the stamina bar (on top of it).
+	"sync_with_stamina_bar": true,
+	// The x offset for the air bar.
+	"x_offset_air_bar": 0,
+	// The y offset for the air bar.
+	"y_offset_air_bar": 0,
+	// If the vigor potion should be available.
+	"vigor_potion": true,
+	// The time the vigor potion should last (in seconds).
+	"vigor_potion_time": 10,
+	// If the long vigor potion should be available.
+	"vigor_potion_long": true,
+	// The time the long vigor potion should last (in seconds).
+	"vigor_potion_long_time": 30,
+	// The multiplier for the amount of health restored by food (do nothing if 'Remove Hunger' is disabled).
+	"heal_multiplier": 1
+}

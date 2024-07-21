@@ -1,0 +1,13 @@
+filename = 'oldpotions-2.4+1.20.1.jar'
+name = 'Old Potions'
+side = 'client'
+
+[download]
+hash = 'ae3f9e9919d5e72906b74fbc4ce4d7ce3ff6db3915132278a9d9ac16f6a42509ba1e434e7fd420ac1fcf778dbaf831e0fe83b3b3d31788578834d312028aa009'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sGezPIC1/versions/euYycf20/oldpotions-2.4%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'sGezPIC1'
+version = 'euYycf20'

@@ -1,0 +1,13 @@
+filename = 'better-deepslate-ore-drops-2.jar'
+name = 'Better Deepslate Ore Drops'
+side = 'both'
+
+[download]
+hash = 'e6fb009b43e7c302dd6da970ba2fab0e08aa273ba5824ef6f688014d732144b6e1599514be5fc509bc04b3707e54ebd0115faeeeb1bd720edab53431a48f9666'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gmNwzHiE/versions/Sw6LUjMB/better-deepslate-ore-drops-2.jar'
+
+[update.modrinth]
+mod-id = 'gmNwzHiE'
+version = 'Sw6LUjMB'

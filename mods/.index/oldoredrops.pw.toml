@@ -1,0 +1,13 @@
+filename = 'OldOreDrops.jar'
+name = 'Old Ore Drops'
+side = 'both'
+
+[download]
+hash = 'd3c554ac9a1a32e73d7051705ceafe8929967b50593f212179c1540a0bf1d7937cd51d47683db178f3ba3a8d8605d6d1f52c85a0f878ef8eecf197b67304701f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/m0HiqXAk/versions/qqClMPa3/OldOreDrops.jar'
+
+[update.modrinth]
+mod-id = 'm0HiqXAk'
+version = 'qqClMPa3'

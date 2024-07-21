@@ -1,0 +1,10 @@
+{
+  "icon": "icon.png",
+  "description": "",
+  "packs": [
+    "golden-days-alpha-1.20.x-1.10.0.zip",
+    "golden-days-base-1.20.x-1.10.1.zip",
+    "golden-days-music-1.20.x.zip"
+  ],
+  "hidden": false
+}
