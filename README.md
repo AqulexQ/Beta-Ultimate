@@ -3,5 +3,5 @@ This Minecraft modpack tries to recreate atmosphere of beta versions, but with s
 
 -----------------------------
 
-# Instalation
+# Installation
 You can download Modpack on [Modrinth](https://modrinth.com/project/beta-ultimate)
