@@ -1,0 +1,51 @@
+{
+  "seasonsextras:recipes/crop_season_tester": {
+    "criteria": {
+      "has_iron": "2024-07-22 02:37:58 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/season_calendar": {
+    "criteria": {
+      "has_clock": "2024-07-22 02:37:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-22 02:37:52 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2024-07-22 02:37:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-07-22 02:37:53 +0300"
+    },
+    "done": false
+  },
+  "seasonsextras:recipes/season_detector": {
+    "criteria": {
+      "has_detector": "2024-07-22 02:37:58 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/tinted_greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2024-07-22 02:37:58 +0300"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/air_conditioning": {
+    "criteria": {
+      "has_furnace": "2024-07-22 02:37:58 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

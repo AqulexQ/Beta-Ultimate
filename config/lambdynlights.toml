@@ -107,6 +107,12 @@ mode = "fancy"
 				dragon_fireball = true
 				egg = true
 				skeleton_horse = true
+				experience_bottle = true
+				wither = true
+				wither_skull = true
+				wandering_trader = true
+				trader_llama = true
+				armor_stand = true
 
 			[light_sources.settings.entities.anxff]
 				firefly = true

@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","programmer_art","file/Programmer Art+/Caulk1.0-1.20.4.zip","file/Programmer Art/golden-days-base-1.20.x-1.10.1.zip","file/Programmer Art/golden-days-music-1.20.x.zip","file/Programmer Art+/Fancy tools-Programmer art V1.zip","file/Programmer Art+/Brewing-Guide.zip","file/Programmer Art+/Nostalgica Panorama.txt","file/Programmer Art Mods/Programmer-ish Dummy","file/Programmer Art Mods/FriendsFoesProgrammerArt.zip","file/Other/morecavesounds.zip","file/Other/fleshyhurtsounds125.zip","file/Other/Better Armor Trims","file/Other/Arcane Enchanting Book 1.19.zip","file/Stamina.zip"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","programmer_art","file/Programmer Art+/Caulk1.0-1.20.4.zip","file/Programmer Art/golden-days-base-1.20.x-1.10.1.zip","file/Programmer Art/golden-days-music-1.20.x.zip","file/Programmer Art+/Fancy tools-Programmer art V1.zip","file/Programmer Art+/Brewing-Guide.zip","file/Programmer Art+/Nostalgica Panorama.txt","file/Programmer Art Mods/Programmer-ish Dummy","file/Programmer Art Mods/FriendsFoesProgrammerArt.zip","file/Other/morecavesounds.zip","file/Other/fleshyhurtsounds125.zip","file/Other/Better Armor Trims","file/Other/Arcane Enchanting Book 1.19.zip","file/Stamina.zip","potionparticlepack:legacy_colors"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -131,11 +131,12 @@ key_key.nostalgic_tweaks.toggle_fog:key.keyboard.unknown
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
+key_key.seasonhud.options:key.keyboard.h
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:1.0
+soundCategory_master:0.1076158940397351
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
